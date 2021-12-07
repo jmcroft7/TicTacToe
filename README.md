@@ -15,10 +15,9 @@
     A Windows form version of TicTacToe. 
 </p>
 
-![GameImg](https://raw.githubusercontent.com/jmcroft7/TicTacToe/master/tictactoe.PNG)
-
 <div align="center">
 
+![GameImg](https://raw.githubusercontent.com/jmcroft7/TicTacToe/master/tictactoe.PNG)
 <!-- Video Demo -->
 
 </div>
